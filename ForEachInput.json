@@ -1,0 +1,22 @@
+[
+  {
+    "csv_relative_url": "AgriSight/refs/heads/main/US_Buyers_database.csv",
+    "file_name": "US_Buyers_database.csv"
+  },
+  {
+    "csv_relative_url": "AgriSight/refs/heads/main/US_Categories_database.csv",
+    "file_name": "US_Categories_database.csv"
+  },
+  {
+    "csv_relative_url": "AgriSight/refs/heads/main/US_Product_Category_database.csv",
+    "file_name": "US_Product_Category_database.csv"
+  },
+  {
+    "csv_relative_url": "AgriSight/refs/heads/main/US_Products_database.csv",
+    "file_name": "US_Products_database.csv"
+  },
+  {
+    "csv_relative_url": "AgriSight/refs/heads/main/US_States_database.csv",
+    "file_name": "US_States_database.csv"
+  }
+]
