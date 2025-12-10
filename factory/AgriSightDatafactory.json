@@ -1,0 +1,9 @@
+{
+	"name": "AgriSightDatafactory",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ff70487-5630-49cf-9f91-e460f2787392",
+		"tenantId": "5f86736b-ef43-4992-9624-06dc6eeaf097"
+	}
+}
