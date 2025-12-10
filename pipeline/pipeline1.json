@@ -1,0 +1,176 @@
+{
+	"name": "pipeline1",
+	"properties": {
+		"activities": [
+			{
+				"name": "ForEach1",
+				"type": "ForEach",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"items": {
+						"value": "@pipeline().parameters.forEachInput",
+						"type": "Expression"
+					},
+					"isSequential": true,
+					"activities": [
+						{
+							"name": "CopyInsideForEach",
+							"type": "Copy",
+							"dependsOn": [],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"source": {
+									"type": "DelimitedTextSource",
+									"storeSettings": {
+										"type": "HttpReadSettings",
+										"requestMethod": "GET"
+									},
+									"formatSettings": {
+										"type": "DelimitedTextReadSettings"
+									}
+								},
+								"sink": {
+									"type": "DelimitedTextSink",
+									"storeSettings": {
+										"type": "AzureBlobFSWriteSettings"
+									},
+									"formatSettings": {
+										"type": "DelimitedTextWriteSettings",
+										"quoteAllText": true,
+										"fileExtension": ".txt"
+									}
+								},
+								"enableStaging": false,
+								"translator": {
+									"type": "TabularTranslator",
+									"typeConversion": true,
+									"typeConversionSettings": {
+										"allowDataTruncation": true,
+										"treatBooleanAsNumber": false
+									}
+								}
+							},
+							"inputs": [
+								{
+									"referenceName": "DataFromGithubviaLinkedService",
+									"type": "DatasetReference",
+									"parameters": {
+										"csv_relative_url": {
+											"value": "@item().csv_relative_url",
+											"type": "Expression"
+										}
+									}
+								}
+							],
+							"outputs": [
+								{
+									"referenceName": "CSVFromLinkedService",
+									"type": "DatasetReference",
+									"parameters": {
+										"file_name": {
+											"value": "@item().file_name",
+											"type": "Expression"
+										}
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			{
+				"name": "DataFromSQL",
+				"type": "Copy",
+				"dependsOn": [
+					{
+						"activity": "ForEach1",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "MySqlSource"
+					},
+					"sink": {
+						"type": "DelimitedTextSink",
+						"storeSettings": {
+							"type": "AzureBlobFSWriteSettings"
+						},
+						"formatSettings": {
+							"type": "DelimitedTextWriteSettings",
+							"quoteAllText": true,
+							"fileExtension": ".txt"
+						}
+					},
+					"enableStaging": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"typeConversion": true,
+						"typeConversionSettings": {
+							"allowDataTruncation": true,
+							"treatBooleanAsNumber": false
+						}
+					}
+				},
+				"inputs": [
+					{
+						"referenceName": "MySqlTable1",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "SQLToADLS",
+						"type": "DatasetReference"
+					}
+				]
+			}
+		],
+		"parameters": {
+			"forEachInput": {
+				"type": "array",
+				"defaultValue": [
+					{
+						"csv_relative_url": "AgriSight/refs/heads/main/US_Buyers_database.csv",
+						"file_name": "US_Buyers_database.csv"
+					},
+					{
+						"csv_relative_url": "AgriSight/refs/heads/main/US_Categories_database.csv",
+						"file_name": "US_Categories_database.csv"
+					},
+					{
+						"csv_relative_url": "AgriSight/refs/heads/main/US_Product_Category_database.csv",
+						"file_name": "US_Product_Category_database.csv"
+					},
+					{
+						"csv_relative_url": "AgriSight/refs/heads/main/US_Products_database.csv",
+						"file_name": "US_Products_database.csv"
+					},
+					{
+						"csv_relative_url": "AgriSight/refs/heads/main/US_States_database.csv",
+						"file_name": "US_States_database.csv"
+					}
+				]
+			}
+		},
+		"annotations": []
+	}
+}
