@@ -7,9 +7,6 @@
 		},
 		"annotations": [],
 		"type": "MySqlTable",
-		"schema": [],
-		"typeProperties": {
-			"tableName": "`us_sales_2019_2023`"
-		}
+		"schema": []
 	}
 }
