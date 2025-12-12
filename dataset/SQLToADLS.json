@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "US_Sales_database_2019_2023.csv",
+				"fileName": "US_Products_database.csv",
 				"folderPath": "bronze",
 				"fileSystem": "argisightcontainer"
 			},
