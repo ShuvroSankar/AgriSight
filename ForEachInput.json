@@ -12,8 +12,8 @@
     "file_name": "US_Product_Category_database.csv"
   },
   {
-    "csv_relative_url": "AgriSight/refs/heads/main/US_Products_database.csv",
-    "file_name": "US_Products_database.csv"
+    "csv_relative_url": "AgriSight/refs/heads/main/US_Sales_database_2019_2023.csv",
+    "file_name": "US_Sales_database_2019_2023.csv"
   },
   {
     "csv_relative_url": "AgriSight/refs/heads/main/US_States_database.csv",
