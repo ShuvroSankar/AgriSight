@@ -12,12 +12,6 @@
 			"folder": {
 				"type": "string"
 			},
-			"sub_folder": {
-				"type": "string"
-			},
-			"sub_sub_folder": {
-				"type": "string"
-			},
 			"file": {
 				"type": "string"
 			}
