@@ -12,6 +12,12 @@
 			"folder": {
 				"type": "string"
 			},
+			"subfolder": {
+				"type": "string"
+			},
+			"subsubfolder": {
+				"type": "string"
+			},
 			"file": {
 				"type": "string"
 			}
