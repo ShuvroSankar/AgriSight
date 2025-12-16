@@ -31,7 +31,7 @@
 					"source": {
 						"type": "AzureSqlSource",
 						"sqlReaderQuery": {
-							"value": "SELECT * FROM @{pipeline().parameters.schema}.@{pipeline().parameters.table} WHERE @{pipeline().parameters.cbc_col} > '@{activity('last_cdc').output.value[0].cdc}'",
+							"value": "SELECT * FROM @{pipeline().parameters.schema}.@{pipeline().parameters.table} WHERE @{pipeline().parameters.cbc_col} > '@{if(empty(pipeline().parameters.from_area),\n    activity('last_cdc').output.value[0].cdc,\n    pipeline().parameters.from_area)}'\n\n",
 							"type": "Expression"
 						},
 						"queryTimeout": "02:00:00",
@@ -111,7 +111,10 @@
 						"type": "DatasetReference",
 						"parameters": {
 							"container": "argisightcontainer",
-							"folder": "cdc",
+							"folder": {
+								"value": "@concat('bronze/FAOSTAT_data/', pipeline().parameters.table, '_cdc')\n",
+								"type": "Expression"
+							},
 							"file": "cdc.json"
 						}
 					},
@@ -138,6 +141,8 @@
 			{
 				"name": "If_Incrimental_data",
 				"type": "IfCondition",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "AzureSQLToLake",
@@ -248,7 +253,8 @@
 									"type": "DatasetReference",
 									"parameters": {
 										"container": "argisightcontainer",
-										"folder": "cdc",
+										"folder": "bronze",
+										"sub_folder": "FAOSTAT_data",
 										"file": "empty.json"
 									}
 								}
@@ -259,7 +265,7 @@
 									"type": "DatasetReference",
 									"parameters": {
 										"container": "argisightcontainer",
-										"folder": "cdc",
+										"folder": "bronze",
 										"file": "cdc.json"
 									}
 								}
@@ -306,6 +312,9 @@
 				"type": "string"
 			},
 			"cbc_col": {
+				"type": "string"
+			},
+			"from_area": {
 				"type": "string"
 			}
 		},
