@@ -1,0 +1,18 @@
+{
+	"name": "filessSQLDB",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "MySql",
+		"typeProperties": {
+			"server": "5lm-kn.h.filess.io",
+			"port": "61031",
+			"database": "AgriSight_SQL_clothesif",
+			"username": "AgriSight_SQL_clothesif",
+			"sslMode": 1,
+			"useSystemTrustStore": 0,
+			"driverVersion": "v2",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDg1OTQ3NDk3LUU0MjItNERCNi04RTAzLTY4ODNENDRDRjAxQl8wNDYwMTVhMy1mMTgxLTRlZDgtOGJjOC1kMTg1YzY5NWM5OTIiDQp9"
+		}
+	}
+}

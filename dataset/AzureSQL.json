@@ -1,0 +1,12 @@
+{
+	"name": "AzureSQL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ArgiSight_Azure_SQL",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}

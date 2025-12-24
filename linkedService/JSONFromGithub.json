@@ -1,0 +1,12 @@
+{
+	"name": "JSONFromGithub",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/ShuvroSankar/AgriSight/refs/heads/main/ForEachInput.json",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

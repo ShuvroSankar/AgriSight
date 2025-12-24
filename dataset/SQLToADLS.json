@@ -1,0 +1,37 @@
+{
+	"name": "SQLToADLS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SQLToADLSLinkedService",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "US_Products_database.csv",
+				"folderPath": "bronze",
+				"fileSystem": "argisightcontainer"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "State ID",
+				"type": "String"
+			},
+			{
+				"name": "Buyer ID",
+				"type": "String"
+			},
+			{
+				"name": "Buyer",
+				"type": "String"
+			}
+		]
+	}
+}
