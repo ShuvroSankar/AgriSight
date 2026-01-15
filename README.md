@@ -12,7 +12,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 ### Data Integration
 - **Multi-Source Pipeline**: Seamlessly ingests data from GitHub, MySQL, and Azure SQL Database
@@ -61,7 +61,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -109,7 +109,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Cloud Infrastructure
 - **Microsoft Azure**: Cloud platform
@@ -139,7 +139,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 agrisight/
@@ -167,7 +167,7 @@ agrisight/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -278,7 +278,7 @@ python notebooks/AgriSight.ipynb
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 ### For Farmers & Producers
 - ✅ Benchmark state-level performance
@@ -300,7 +300,7 @@ python notebooks/AgriSight.ipynb
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 ### Near-Term (Q1-Q2 2026)
 - [ ] Real-time data integration via Apache Kafka
@@ -322,16 +322,15 @@ python notebooks/AgriSight.ipynb
 
 ---
 
-## 📝 Documentation
+## Documentation
 
 - **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** - Detailed system design and medallion pattern implementation
 - **[DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)** - Complete feature definitions and data lineage
 - **[SETUP.md](docs/SETUP.md)** - Step-by-step installation and configuration
-- **[API_REFERENCE.md](docs/API_REFERENCE.md)** - Python API documentation (if applicable)
 
 ---
 
-## 📊 Paper & Publication
+## Paper & Publication
 
 This project is documented in a peer-reviewed LLNCS paper:
 
@@ -343,7 +342,7 @@ This project is documented in a peer-reviewed LLNCS paper:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -361,7 +360,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📋 Performance Metrics
+## Performance Metrics
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -373,7 +372,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 🔒 Security & Compliance
+## Security & Compliance
 
 - ✅ Azure Role-Based Access Control (RBAC)
 - ✅ Data encryption at rest (AES-256)
@@ -384,15 +383,9 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📞 Support & Contact
 
-- **Issues & Bugs**: [GitHub Issues](https://github.com/yourusername/agrisight/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/agrisight/discussions)
-- **Email**: agrisight@example.com
 
----
-
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -419,7 +412,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 **Last Updated**: January 15, 2026  
-**Maintainer**: [Your Name/Organization]  
+**Maintainer**: [Shuvro Sankar Sen]  
 **Status**: ✅ Production Ready
 
 ---
@@ -428,6 +421,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ If you found this project helpful, please give it a star! ⭐
 
-Made with ❤️ for the agricultural data community
+
 
 </div>
