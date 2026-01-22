@@ -1,0 +1,460 @@
+Area Code,Area Code (M49),Area,Item Code,Item Code (CPC),Item,Element Code,Element,Unit,Y2019,Y2020,Y2021,Y2022,Y2023
+231,'840,United States of America,221,'01371,"Almonds, in shell",5312,Area harvested,ha,477530,505863,530144,546332,558472
+231,'840,United States of America,221,'01371,"Almonds, in shell",5412,Yield,kg/ha,4006.4,4635.8,4158.1,3421.3,3208.2
+231,'840,United States of America,221,'01371,"Almonds, in shell",5510,Production,t,1913160,2345070,2204370,1869160,1791690
+231,'840,United States of America,515,'01341,Apples,5312,Area harvested,ha,119301,119707,121205,122338,120233
+231,'840,United States of America,515,'01341,Apples,5412,Yield,kg/ha,42149.8,38971.8,37694.9,36984.3,42847.5
+231,'840,United States of America,515,'01341,Apples,5510,Production,t,5028526.46,4665199,4568810,4524590,5151680
+231,'840,United States of America,526,'01343,Apricots,5312,Area harvested,ha,3880,3424,2958,2546,2404
+231,'840,United States of America,526,'01343,Apricots,5412,Yield,kg/ha,11994.8,8271,12254.9,10353.5,13519.1
+231,'840,United States of America,526,'01343,Apricots,5510,Production,t,46540,28320,36250,26360,32500
+231,'840,United States of America,366,'01216,Artichokes,5312,Area harvested,ha,2671,2064,1943,1983,1740
+231,'840,United States of America,366,'01216,Artichokes,5412,Yield,kg/ha,16252.4,16812,18489.4,17372.7,20177
+231,'840,United States of America,366,'01216,Artichokes,5510,Production,t,43409,34700,35925,34450,35108
+231,'840,United States of America,367,'01211,Asparagus,5312,Area harvested,ha,8256,7284,6637,6556,6354
+231,'840,United States of America,367,'01211,Asparagus,5412,Yield,kg/ha,4082.3,3880.8,5412.8,5254.7,5525.3
+231,'840,United States of America,367,'01211,Asparagus,5510,Production,t,33702,28268,35925,34450,35108
+231,'840,United States of America,1107,'02132,Asses,5111,Stocks,An,51976,51975,51975,51974,51973
+231,'840,United States of America,572,'01311,Avocados,5312,Area harvested,ha,21416,21335,21432,20935,21117
+231,'840,United States of America,572,'01311,Avocados,5412,Yield,kg/ha,5727.9,8785.2,6395.1,6796.8,5535.4
+231,'840,United States of America,572,'01311,Avocados,5510,Production,t,122669.56,187433.49,137060,142290,116890
+231,'840,United States of America,486,'01312,Bananas,5312,Area harvested,ha,348,338,330,324,320
+231,'840,United States of America,486,'01312,Bananas,5412,Yield,kg/ha,9907.2,10267.4,10991.3,10843.9,11042.2
+231,'840,United States of America,486,'01312,Bananas,5510,Production,t,3452.33,3470.47,3624.27,3515.69,3536.81
+231,'840,United States of America,44,'0115,Barley,5312,Area harvested,ha,898820,895980,806950,981370,1033980
+231,'840,United States of America,44,'0115,Barley,5412,Yield,kg/ha,4178.5,4150.8,3253.7,3858.5,3896.3
+231,'840,United States of America,44,'0115,Barley,5510,Production,t,3755720,3719010,2625600,3786660,4028680
+231,'840,United States of America,176,'01701,"Beans, dry",5312,Area harvested,ha,465427,665880,529010,489480,460910
+231,'840,United States of America,176,'01701,"Beans, dry",5412,Yield,kg/ha,1976.8,2200.7,1901.6,2370.6,2325
+231,'840,United States of America,176,'01701,"Beans, dry",5510,Production,t,920064,1465376,1005978,1160375,1071613
+231,'840,United States of America,51,'24310.01,"Beer of barley, malted",5510,Production,t,21088400,20381300,20420000,20451500,
+231,'840,United States of America,1181,'02196,Bees,5114,Stocks,No,2812000,2706000,2697000,2667000,2509000
+231,'840,United States of America,1183,'02960.01,Beeswax,5510,Production,t,1585.32,1589.7,1592.97,1591.38,1589.8
+231,'840,United States of America,552,'01355.01,Blueberries,5312,Area harvested,ha,47591,47308,55119,52286,51315
+231,'840,United States of America,552,'01355.01,Blueberries,5412,Yield,kg/ha,7191.1,6669.5,6865,6729.3,6502.2
+231,'840,United States of America,552,'01355.01,Blueberries,5510,Production,t,342230,315520,378390,351850,333660
+231,'840,United States of America,420,'01243,"Broad beans and horse beans, green",5312,Area harvested,ha,16281,16325,16202,16269,16265
+231,'840,United States of America,420,'01243,"Broad beans and horse beans, green",5412,Yield,kg/ha,2648.4,2659,2705.1,2684.2,2675.1
+231,'840,United States of America,420,'01243,"Broad beans and horse beans, green",5510,Production,t,43119.66,43407.1,43826.93,43669.23,43511.53
+231,'840,United States of America,89,'01192,Buckwheat,5312,Area harvested,ha,81800,81787,82456,82922,83465
+231,'840,United States of America,89,'01192,Buckwheat,5412,Yield,kg/ha,1048.9,1050.4,1052.1,1053.8,1038.5
+231,'840,United States of America,89,'01192,Buckwheat,5510,Production,t,85802.84,85906.64,86752.85,87379.98,86679.82
+231,'840,United States of America,949,'21513,"Buffalo fat, unrendered",5510,Production,t,,,,,
+231,'840,United States of America,949,'21513,"Buffalo fat, unrendered",5320,Producing Animals/Slaughtered,An,,,,,
+231,'840,United States of America,886,'22241.01,Butter of cow milk,5510,Production,t,904521,973141,935636,933830,
+231,'840,United States of America,899,'22230.04,"Buttermilk, dry",5510,Production,t,53641,57518,59736,62698,
+231,'840,United States of America,358,'01212,Cabbages,5312,Area harvested,ha,24443,23472,21894,21287,20922
+231,'840,United States of America,358,'01212,Cabbages,5412,Yield,kg/ha,41269.2,45542.8,42314.8,46882.8,46031.4
+231,'840,United States of America,358,'01212,Cabbages,5510,Production,t,1008744,1068981,926440,997994,963068
+231,'840,United States of America,568,'01229,Cantaloupes and other melons,5312,Area harvested,ha,23553,17928,20679,21368,20963
+231,'840,United States of America,568,'01229,Cantaloupes and other melons,5412,Yield,kg/ha,26775.2,33939.8,29663.7,31008.3,28506.7
+231,'840,United States of America,568,'01229,Cantaloupes and other melons,5510,Production,t,630629,608472,613416,662586,597585
+231,'840,United States of America,426,'01251,Carrots and turnips,5312,Area harvested,ha,29178,28005,25779,30149,26629
+231,'840,United States of America,426,'01251,Carrots and turnips,5412,Yield,kg/ha,51762,49813.4,49994.8,48253.9,50009.5
+231,'840,United States of America,426,'01251,Carrots and turnips,5510,Production,t,1510304,1395024,1288815,1454807,1331702
+231,'840,United States of America,265,'01447,Castor oil seeds,5312,Area harvested,ha,,,,,
+231,'840,United States of America,265,'01447,Castor oil seeds,5412,Yield,kg/ha,,,,,
+231,'840,United States of America,265,'01447,Castor oil seeds,5510,Production,t,,,,,
+231,'840,United States of America,866,'02111,Cattle,5111,Stocks,An,94804701,93793300,93586500,91788700,88841000
+231,'840,United States of America,869,'21512,"Cattle fat, unrendered",5510,Production,t,738733.45,738963.46,759551.23,768874.87,732833.08
+231,'840,United States of America,869,'21512,"Cattle fat, unrendered",5320,Producing Animals/Slaughtered,An,34264800,33366100,34360100,34811900,33254800
+231,'840,United States of America,393,'01213,Cauliflowers and broccoli,5312,Area harvested,ha,60784,57951,66895,70861,62605
+231,'840,United States of America,393,'01213,Cauliflowers and broccoli,5412,Yield,kg/ha,19902.2,19517.5,16181,17070.8,16879.4
+231,'840,United States of America,393,'01213,Cauliflowers and broccoli,5510,Production,t,1209731,1131056,1082430,1209654,1056734
+231,'840,United States of America,108,'01199.90,Cereals n.e.c.,5312,Area harvested,ha,,,,,
+231,'840,United States of America,108,'01199.90,Cereals n.e.c.,5510,Production,t,,,,,
+231,'840,United States of America,904,'22251.02,Cheese from skimmed cow milk,5510,Production,t,201595.59,211806.54,200000,208863.49,
+231,'840,United States of America,901,'22251.01,Cheese from whole cow milk,5510,Production,t,5959034,6005461,6241897,6388614,
+231,'840,United States of America,531,'01344.02,Cherries,5312,Area harvested,ha,34600,34400,35410,35006,35208
+231,'840,United States of America,531,'01344.02,Cherries,5412,Yield,kg/ha,9244.8,8573.5,9410.1,5786.7,9129.2
+231,'840,United States of America,531,'01344.02,Cherries,5510,Production,t,319870,294930,333210,202570,321420
+231,'840,United States of America,191,'01703,"Chick peas, dry",5312,Area harvested,ha,183490,101500,141320,138280,145360
+231,'840,United States of America,191,'01703,"Chick peas, dry",5412,Yield,kg/ha,1541.8,1826.4,914.2,1209.1,1473.5
+231,'840,United States of America,191,'01703,"Chick peas, dry",5510,Production,t,282910,185380,129190,167190,214190
+231,'840,United States of America,1057,'02151,Chickens,5112,Stocks,1000 An,1530000,1537000,1522000,1532000,1526000
+231,'840,United States of America,689,'01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",5312,Area harvested,ha,,,,,
+231,'840,United States of America,689,'01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",5412,Yield,kg/ha,,,,,
+231,'840,United States of America,689,'01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",5510,Production,t,,,,,
+231,'840,United States of America,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5312,Area harvested,ha,21044,17806,17766,18615,18616
+231,'840,United States of America,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5412,Yield,kg/ha,31283.6,31772.6,32639.5,33387.7,30981
+231,'840,United States of America,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5510,Production,t,658322,565743,579873,621512,576743
+231,'840,United States of America,656,'01610,"Coffee, green",5312,Area harvested,ha,2792,2752,2995,3035,2995
+231,'840,United States of America,656,'01610,"Coffee, green",5412,Yield,kg/ha,830.9,712.2,1572.3,1238.6,1042.1
+231,'840,United States of America,656,'01610,"Coffee, green",5510,Production,t,2320,1960,4709,3759,3121
+231,'840,United States of America,767,'01921.02,"Cotton lint, ginned",5510,Production,t,4335440,3180410,3815180,3150040,
+231,'840,United States of America,329,'0143,Cotton seed,5510,Production,t,5393210,4023360,4828940,4005220,
+231,'840,United States of America,331,'2168,Cottonseed oil,5510,Production,t,218000,188000,193000,172000,
+231,'840,United States of America,195,'01706,"Cow peas, dry",5312,Area harvested,ha,5463,7730,5220,3930,7280
+231,'840,United States of America,195,'01706,"Cow peas, dry",5412,Yield,kg/ha,2225.2,2106.6,1989.8,1754.5,1775.7
+231,'840,United States of America,195,'01706,"Cow peas, dry",5510,Production,t,12156,16284,10387,6895,12927
+231,'840,United States of America,554,'01355.02,Cranberries,5312,Area harvested,ha,15580,15864,14812,14771,14447
+231,'840,United States of America,554,'01355.02,Cranberries,5412,Yield,kg/ha,23049.4,22325.4,20888.5,24674,25462.7
+231,'840,United States of America,554,'01355.02,Cranberries,5510,Production,t,359110,354170,309400,364460,367860
+231,'840,United States of America,885,'22120,"Cream, fresh",5510,Production,t,26805.83,27560.62,27899.85,28271.79,
+231,'840,United States of America,397,'01232,Cucumbers and gherkins,5312,Area harvested,ha,40792,37029,35653,34196,33144
+231,'840,United States of America,397,'01232,Cucumbers and gherkins,5412,Yield,kg/ha,16430.8,15318.9,17663.8,17732.4,19510
+231,'840,United States of America,397,'01232,Cucumbers and gherkins,5510,Production,t,670251,567245,629768,606376,646641
+231,'840,United States of America,550,'01351.01,Currants,5312,Area harvested,ha,0,0,0,0,0
+231,'840,United States of America,550,'01351.01,Currants,5412,Yield,kg/ha,,,,,
+231,'840,United States of America,550,'01351.01,Currants,5510,Production,t,0,0,0,0,0
+231,'840,United States of America,577,'01314,Dates,5312,Area harvested,ha,6232,6677,6313,6313,5989
+231,'840,United States of America,577,'01314,Dates,5412,Yield,kg/ha,8937.7,8504.9,9692.7,9268.2,7430.3
+231,'840,United States of America,577,'01314,Dates,5510,Production,t,55701.16,56789.78,61190,58510,44500
+231,'840,United States of America,1068,'02154,Ducks,5112,Stocks,1000 An,7676,7787,7854,7926,7996
+231,'840,United States of America,948,'21152,"Edible offal of buffalo, fresh, chilled or frozen",5510,Production,t,,,,,
+231,'840,United States of America,948,'21152,"Edible offal of buffalo, fresh, chilled or frozen",5320,Producing Animals/Slaughtered,An,,,,,
+231,'840,United States of America,868,'21151,"Edible offal of cattle, fresh, chilled or frozen",5510,Production,t,869098.18,869368.77,893589.68,904558.67,862156.56
+231,'840,United States of America,868,'21151,"Edible offal of cattle, fresh, chilled or frozen",5320,Producing Animals/Slaughtered,An,34264800,33366100,34360100,34811900,33254800
+231,'840,United States of America,1018,'21156,"Edible offal of goat, fresh, chilled or frozen",5510,Production,t,1921.47,1777,1703.35,1728.41,1811.54
+231,'840,United States of America,1018,'21156,"Edible offal of goat, fresh, chilled or frozen",5320,Producing Animals/Slaughtered,An,675200,624400,598500,607300,636500
+231,'840,United States of America,1036,'21153,"Edible offal of pigs, fresh, chilled or frozen",5510,Production,t,830302.33,850309.24,831425.83,811046.83,820258.96
+231,'840,United States of America,1036,'21153,"Edible offal of pigs, fresh, chilled or frozen",5320,Producing Animals/Slaughtered,An,129990000,131639000,129062400,125400200,128047300
+231,'840,United States of America,978,'21155,"Edible offal of sheep, fresh, chilled or frozen",5510,Production,t,3696.28,3452.66,3445.37,3286.12,3259.57
+231,'840,United States of America,978,'21155,"Edible offal of sheep, fresh, chilled or frozen",5320,Producing Animals/Slaughtered,An,2413200,2318400,2355200,2166600,2263800
+231,'840,United States of America,1098,'21159.01,"Edible offals of horses and other equines,  fresh, chilled or frozen",5510,Production,t,,,,,
+231,'840,United States of America,1098,'21159.01,"Edible offals of horses and other equines,  fresh, chilled or frozen",5320,Producing Animals/Slaughtered,An,0,0,0,0,0
+231,'840,United States of America,399,'01233,Eggplants (aubergines),5312,Area harvested,ha,2640,2654,2657,2650,2654
+231,'840,United States of America,399,'01233,Eggplants (aubergines),5412,Yield,kg/ha,37204.8,37293.8,37091.5,37196.7,37194
+231,'840,United States of America,399,'01233,Eggplants (aubergines),5510,Production,t,98222.68,98973.09,98560,98585.26,98706.12
+231,'840,United States of America,1037,'21511.01,Fat of pigs,5510,Production,t,3356541.34,3437420.32,3361083.14,3278699.94,3315940.48
+231,'840,United States of America,1037,'21511.01,Fat of pigs,5320,Producing Animals/Slaughtered,An,129990000,131639000,129062400,125400200,128047300
+231,'840,United States of America,569,'01315,Figs,5312,Area harvested,ha,2661,2671,2659,2664,2665
+231,'840,United States of America,569,'01315,Figs,5412,Yield,kg/ha,10719.6,10269.2,10478.8,10488.9,10412.1
+231,'840,United States of America,569,'01315,Figs,5510,Production,t,28526.04,27433.92,27859.36,27939.78,27744.35
+231,'840,United States of America,1163,'21170.02,"Game meat, fresh, chilled or frozen",5510,Production,t,263520.18,266572.53,267348.51,268813.97,270279.42
+231,'840,United States of America,887,'22241.02,Ghee from cow milk,5510,Production,t,10806.45,11110.73,11247.49,11397.43,
+231,'840,United States of America,720,'01657,"Ginger, raw",5312,Area harvested,ha,19,19,19,19,19
+231,'840,United States of America,720,'01657,"Ginger, raw",5412,Yield,kg/ha,35122.5,34072.2,34105.7,34429.7,34202.1
+231,'840,United States of America,720,'01657,"Ginger, raw",5510,Production,t,669.8,662.37,659.2,663.79,661.79
+231,'840,United States of America,1019,'21515,"Goat fat, unrendered",5510,Production,t,388.38,359.18,344.29,349.36,366.16
+231,'840,United States of America,1019,'21515,"Goat fat, unrendered",5320,Producing Animals/Slaughtered,An,675200,624400,598500,607300,636500
+231,'840,United States of America,1016,'02123,Goats,5111,Stocks,An,2622000,2655000,2606000,2570000,2527000
+231,'840,United States of America,560,'01330,Grapes,5312,Area harvested,ha,378381,374338,365435,363816,360579
+231,'840,United States of America,560,'01330,Grapes,5412,Yield,kg/ha,16689.3,14637.6,14979.3,14867.7,14867.8
+231,'840,United States of America,560,'01330,Grapes,5510,Production,t,6314914.79,5479400,5473950,5409090,5361010
+231,'840,United States of America,446,'01290.01,Green corn (maize),5312,Area harvested,ha,158111,150828,154592,148764,145486
+231,'840,United States of America,446,'01290.01,Green corn (maize),5412,Yield,kg/ha,18063.9,18188.1,17925.6,18511.8,19443.5
+231,'840,United States of America,446,'01290.01,Green corn (maize),5510,Production,t,2856091,2743282,2771155,2753896,2828762
+231,'840,United States of America,406,'01252,Green garlic,5312,Area harvested,ha,9996,9591,9874,11250,10846
+231,'840,United States of America,406,'01252,Green garlic,5412,Yield,kg/ha,17373.2,16812.8,16252.9,18494.5,16812.1
+231,'840,United States of America,406,'01252,Green garlic,5510,Production,t,173658,161252,160481,208063,182344
+231,'840,United States of America,675,'23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",5510,Production,t,,22368,24288,25109.75,
+231,'840,United States of America,244,'2162,Groundnut oil,5510,Production,t,115000,128000,132000,122000,
+231,'840,United States of America,242,'0142,"Groundnuts, excluding shelled",5312,Area harvested,ha,562400,653660,622410,559040,636980
+231,'840,United States of America,242,'0142,"Groundnuts, excluding shelled",5412,Yield,kg/ha,4408.9,4273.4,4634.4,4496.5,4194.3
+231,'840,United States of America,242,'0142,"Groundnuts, excluding shelled",5510,Production,t,2479560,2793380,2884480,2513710,2671670
+231,'840,United States of America,225,'01374,"Hazelnuts, in shell",5312,Area harvested,ha,20235,24281,23472,27519,30756
+231,'840,United States of America,225,'01374,"Hazelnuts, in shell",5412,Yield,kg/ha,2017.3,2308.8,3003.2,2555,2778.6
+231,'840,United States of America,225,'01374,"Hazelnuts, in shell",5510,Production,t,40820,56060,70490,70310,85460
+231,'840,United States of America,336,'01449.02,Hempseed,5312,Area harvested,ha,,,3341,2177,1613
+231,'840,United States of America,336,'01449.02,Hempseed,5412,Yield,kg/ha,,,593.5,506.2,873.5
+231,'840,United States of America,336,'01449.02,Hempseed,5510,Production,t,,,1983,1102,1409
+231,'840,United States of America,1062,'0231,"Hen eggs in shell, fresh",5410,Yield,100 mg/An,167879,169966,169702,172114,170765
+231,'840,United States of America,1062,'0231,"Hen eggs in shell, fresh",5413,Yield,No/An,283,285,285,289,286
+231,'840,United States of America,1062,'0231,"Hen eggs in shell, fresh",5510,Production,t,6706770,6658784,6639446,6528357,6529000
+231,'840,United States of America,1062,'0231,"Hen eggs in shell, fresh",5513,Production,1000 No,113206100,111734400,111395300,109514100,109526000
+231,'840,United States of America,1062,'0231,"Hen eggs in shell, fresh",5313,Laying,1000 An,399500,391772,391242,379304,382338
+231,'840,United States of America,677,'01659,Hop cones,5312,Area harvested,ha,22880,23730,24630,24330,21980
+231,'840,United States of America,677,'01659,Hop cones,5412,Yield,kg/ha,2221.2,1984.4,2129.5,1898.9,2147
+231,'840,United States of America,677,'01659,Hop cones,5510,Production,t,50820,47090,52450,46200,47190
+231,'840,United States of America,1097,'21118.01,"Horse meat, fresh or chilled",5417,Yield/Carcass Weight,100 g/An,,,,,
+231,'840,United States of America,1097,'21118.01,"Horse meat, fresh or chilled",5510,Production,t,0,0,0,0,0
+231,'840,United States of America,1097,'21118.01,"Horse meat, fresh or chilled",5320,Producing Animals/Slaughtered,An,0,0,0,0,0
+231,'840,United States of America,1096,'02131,Horses,5111,Stocks,An,6851059,6722085,6594482,6460341,6347486
+231,'840,United States of America,592,'01352,Kiwi fruit,5312,Area harvested,ha,1780,1780,1821,1943,1943
+231,'840,United States of America,592,'01352,Kiwi fruit,5412,Yield,kg/ha,19061.8,20387.6,17534.3,16809.1,12794.6
+231,'840,United States of America,592,'01352,Kiwi fruit,5510,Production,t,33930,36290,31930,32660,24860
+231,'840,United States of America,497,'01322,Lemons and limes,5312,Area harvested,ha,22784,23189,23067,23351,24039
+231,'840,United States of America,497,'01322,Lemons and limes,5412,Yield,kg/ha,39896.7,42408.5,34845,41103.2,42115.7
+231,'840,United States of America,497,'01322,Lemons and limes,5510,Production,t,909000,983390,803770,959800,1012420
+231,'840,United States of America,201,'01704,"Lentils, dry",5312,Area harvested,ha,174420,206390,233510,250500,211650
+231,'840,United States of America,201,'01704,"Lentils, dry",5412,Yield,kg/ha,1401.2,1625.9,674,1023.1,1230.6
+231,'840,United States of America,201,'01704,"Lentils, dry",5510,Production,t,244400,335570,157390,256280,260450
+231,'840,United States of America,372,'01214,Lettuce and chicory,5312,Area harvested,ha,105700,105665,139213,137312,134358
+231,'840,United States of America,372,'01214,Lettuce and chicory,5412,Yield,kg/ha,35138,36224.1,32113.8,32412.5,35072.8
+231,'840,United States of America,372,'01214,Lettuce and chicory,5510,Production,t,3714083,3827618,4470653,4450627,4712305
+231,'840,United States of America,333,'01441,Linseed,5312,Area harvested,ha,114930,119790,113310,97930,64750
+231,'840,United States of America,333,'01441,Linseed,5412,Yield,kg/ha,1243.2,1210,620.5,1110.7,1161.5
+231,'840,United States of America,333,'01441,Linseed,5510,Production,t,142880,144940,70310,108770,75210
+231,'840,United States of America,56,'0112,Maize (corn),5312,Area harvested,ha,32916270,33311250,34393800,31851130,35010950
+231,'840,United States of America,56,'0112,Maize (corn),5412,Yield,kg/ha,10510.4,10760.5,11091.2,10886.3,11130.6
+231,'840,United States of America,56,'0112,Maize (corn),5510,Production,t,345962110,358447310,381469380,346739460,389694460
+231,'840,United States of America,571,'01316,"Mangoes, guavas and mangosteens",5312,Area harvested,ha,73,70,69,69,75
+231,'840,United States of America,571,'01316,"Mangoes, guavas and mangosteens",5412,Yield,kg/ha,19466.5,19641.1,19793.7,19947.3,20000
+231,'840,United States of America,571,'01316,"Mangoes, guavas and mangosteens",5510,Production,t,1416.52,1372.5,1374.02,1376.27,1500
+231,'840,United States of America,1242,'21700.02,Margarine and shortening,5510,Production,t,4088979.48,4129768.56,4429672.59,4285089.06,
+231,'840,United States of America,947,'21112,"Meat of buffalo, fresh or chilled",5510,Production,t,,,,,
+231,'840,United States of America,947,'21112,"Meat of buffalo, fresh or chilled",5320,Producing Animals/Slaughtered,An,,,,,
+231,'840,United States of America,867,'21111.01,"Meat of cattle with the bone, fresh or chilled",5417,Yield/Carcass Weight,100 g/An,3614,3713,3706,3703,3694
+231,'840,United States of America,867,'21111.01,"Meat of cattle with the bone, fresh or chilled",5510,Production,t,12384649,12388505,12733653,12889961,12285731
+231,'840,United States of America,867,'21111.01,"Meat of cattle with the bone, fresh or chilled",5320,Producing Animals/Slaughtered,An,34264800,33366100,34360100,34811900,33254800
+231,'840,United States of America,1058,'21121,"Meat of chickens, fresh or chilled",5424,Yield/Carcass Weight,0.1 g/An,21626,20129,20621,20784,20946
+231,'840,United States of America,1058,'21121,"Meat of chickens, fresh or chilled",5510,Production,t,20197090.45,18814264,19230123,19841239,19901890
+231,'840,United States of America,1058,'21121,"Meat of chickens, fresh or chilled",5321,Producing Animals/Slaughtered,1000 An,9339249,9346660,9325584,9546222,9501611
+231,'840,United States of America,1069,'21122,"Meat of ducks, fresh or chilled",5424,Yield/Carcass Weight,0.1 g/An,23253,23154,23152,23340,23502
+231,'840,United States of America,1069,'21122,"Meat of ducks, fresh or chilled",5510,Production,t,64049,52059,56261,62217,66284
+231,'840,United States of America,1069,'21122,"Meat of ducks, fresh or chilled",5321,Producing Animals/Slaughtered,1000 An,27544,22484,24301,26657,28203
+231,'840,United States of America,1017,'21116,"Meat of goat, fresh or chilled",5417,Yield/Carcass Weight,100 g/An,147,147,147,147,147
+231,'840,United States of America,1017,'21116,"Meat of goat, fresh or chilled",5510,Production,t,9954.84,9206.37,8824.79,8954.65,9385.32
+231,'840,United States of America,1017,'21116,"Meat of goat, fresh or chilled",5320,Producing Animals/Slaughtered,An,675200,624400,598500,607300,636500
+231,'840,United States of America,1035,'21113.01,"Meat of pig with the bone, fresh or chilled",5417,Yield/Carcass Weight,100 g/An,965,976,973,977,968
+231,'840,United States of America,1035,'21113.01,"Meat of pig with the bone, fresh or chilled",5510,Production,t,12542865,12845097,12559837,12251984,12391146
+231,'840,United States of America,1035,'21113.01,"Meat of pig with the bone, fresh or chilled",5320,Producing Animals/Slaughtered,An,129990000,131639000,129062400,125400200,128047300
+231,'840,United States of America,977,'21115,"Meat of sheep, fresh or chilled",5417,Yield/Carcass Weight,100 g/An,288,280,275,285,271
+231,'840,United States of America,977,'21115,"Meat of sheep, fresh or chilled",5510,Production,t,69490,64910,64773,61779,61280
+231,'840,United States of America,977,'21115,"Meat of sheep, fresh or chilled",5320,Producing Animals/Slaughtered,An,2413200,2318400,2355200,2166600,2263800
+231,'840,United States of America,1080,'21124,"Meat of turkeys, fresh or chilled",5424,Yield/Carcass Weight,0.1 g/An,115910,116818,116908,113761,114599
+231,'840,United States of America,1080,'21124,"Meat of turkeys, fresh or chilled",5510,Production,t,2638803,2605074,2521282,2368797,2475244
+231,'840,United States of America,1080,'21124,"Meat of turkeys, fresh or chilled",5321,Producing Animals/Slaughtered,1000 An,227660,223003,215663,208225,215992
+231,'840,United States of America,79,'0118,Millet,5312,Area harvested,ha,188180,205990,268310,199510,231480
+231,'840,United States of America,79,'0118,Millet,5412,Yield,kg/ha,2001.6,1054,1300.2,1041.1,1917.6
+231,'840,United States of America,79,'0118,Millet,5510,Production,t,376660,217110,348860,207700,443890
+231,'840,United States of America,165,'23540,Molasses,5510,Production,t,2303000,1936000,2322000,2212622.15,
+231,'840,United States of America,1110,'02133,Mules and hinnies,5111,Stocks,An,,,,,
+231,'840,United States of America,449,'01270,Mushrooms and truffles,5510,Production,t,383960,370300,343820,318600,302390
+231,'840,United States of America,292,'01442,Mustard seed,5312,Area harvested,ha,36420,36990,36140,71100,96360
+231,'840,United States of America,292,'01442,Mustard seed,5412,Yield,kg/ha,791.9,1002.7,526.6,620.7,702.8
+231,'840,United States of America,292,'01442,Mustard seed,5510,Production,t,28840,37090,19030,44130,67720
+231,'840,United States of America,1182,'02910,Natural honey,5510,Production,t,71179,66948,57490,56849,62855
+231,'840,United States of America,75,'0117,Oats,5312,Area harvested,ha,335080,408330,263050,356130,336300
+231,'840,United States of America,75,'0117,Oats,5412,Yield,kg/ha,2307,2335.2,2198.1,2350.4,2462.1
+231,'840,United States of America,75,'0117,Oats,5510,Production,t,773040,953550,578220,837060,828010
+231,'840,United States of America,334,'21691.12,Oil of linseed,5510,Production,t,83700,78400,69900,71200,
+231,'840,United States of America,60,'21691.02,Oil of maize,5510,Production,t,1014971.91,996076.29,1034606.96,969837.78,
+231,'840,United States of America,430,'01239.01,Okra,5312,Area harvested,ha,1292,1332,1331,1337,1342
+231,'840,United States of America,430,'01239.01,Okra,5412,Yield,kg/ha,7868.6,7929.2,7973.5,7816.1,7853.5
+231,'840,United States of America,430,'01239.01,Okra,5510,Production,t,10165.4,10562.47,10612.26,10446.71,10540.48
+231,'840,United States of America,261,'2167,Olive oil,5510,Production,t,16000,16000,16000,16000,
+231,'840,United States of America,260,'01450,Olives,5312,Area harvested,ha,15180,14569,16592,16997,16188
+231,'840,United States of America,260,'01450,Olives,5412,Yield,kg/ha,10009.9,4215.8,6288,4595.5,6808.7
+231,'840,United States of America,260,'01450,Olives,5510,Production,t,151950,61420,104330,78110,110220
+231,'840,United States of America,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5312,Area harvested,ha,52366,53316,58154,54633,54107
+231,'840,United States of America,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5412,Yield,kg/ha,60540.2,62898.6,56661.6,58176.7,61275.3
+231,'840,United States of America,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5510,Production,t,3170271,3353500,3295100,3178368,3315421
+231,'840,United States of America,490,'01323,Oranges,5312,Area harvested,ha,206228,203842,198986,186603,170051
+231,'840,United States of America,490,'01323,Oranges,5412,Yield,kg/ha,23873,23382.6,20005.1,16655.8,13267.6
+231,'840,United States of America,490,'01323,Oranges,5510,Production,t,4923290,4766350,3980730,3108020,2256170
+231,'840,United States of America,414,'01241.90,"Other beans, green",5312,Area harvested,ha,9796,9764,9444,9668,9626
+231,'840,United States of America,414,'01241.90,"Other beans, green",5412,Yield,kg/ha,3239.2,3284.7,3301.1,3274.6,3286.7
+231,'840,United States of America,414,'01241.90,"Other beans, green",5510,Production,t,31730.77,32072.92,31175.16,31659.62,31635.9
+231,'840,United States of America,558,'01355.90,Other berries and fruits of the genus vaccinium n.e.c.,5312,Area harvested,ha,3537,3601,3599,3627,3609
+231,'840,United States of America,558,'01355.90,Other berries and fruits of the genus vaccinium n.e.c.,5412,Yield,kg/ha,8323.4,8040.8,8311.3,8115.7,8155.8
+231,'840,United States of America,558,'01355.90,Other berries and fruits of the genus vaccinium n.e.c.,5510,Production,t,29436.19,28952.87,29914.42,29434.49,29433.93
+231,'840,United States of America,512,'01329,"Other citrus fruit, n.e.c.",5312,Area harvested,ha,1117,1152,1136,1135,1141
+231,'840,United States of America,512,'01329,"Other citrus fruit, n.e.c.",5412,Yield,kg/ha,19158.2,20031.8,19749.7,19651.2,19812
+231,'840,United States of America,512,'01329,"Other citrus fruit, n.e.c.",5510,Production,t,21393.33,23081.11,22441.48,22305.31,22609.3
+231,'840,United States of America,619,'01359.90,"Other fruits, n.e.c.",5312,Area harvested,ha,36,35,35,35,35
+231,'840,United States of America,619,'01359.90,"Other fruits, n.e.c.",5412,Yield,kg/ha,19714.7,19355.1,19411.6,19494.7,19420.5
+231,'840,United States of America,619,'01359.90,"Other fruits, n.e.c.",5510,Production,t,705.41,685.18,683.98,691.52,686.9
+231,'840,United States of America,234,'01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",5312,Area harvested,ha,166690,171994,181422,185429,182920
+231,'840,United States of America,234,'01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",5412,Yield,kg/ha,806.6,907.2,792.6,798,852
+231,'840,United States of America,234,'01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",5510,Production,t,134450,156030,143790,147970,155850
+231,'840,United States of America,463,'01290.90,"Other vegetables, fresh n.e.c.",5312,Area harvested,ha,11372,11655,11250,11129,10886
+231,'840,United States of America,463,'01290.90,"Other vegetables, fresh n.e.c.",5412,Yield,kg/ha,62765.8,62767.4,61648.3,59964.8,57724
+231,'840,United States of America,463,'01290.90,"Other vegetables, fresh n.e.c.",5510,Production,t,713773,731554,693543,667348,628384
+231,'840,United States of America,600,'01317,Papayas,5312,Area harvested,ha,279,243,283,283,263
+231,'840,United States of America,600,'01317,Papayas,5412,Yield,kg/ha,19086.9,15485.3,25017.7,18763.3,17680.6
+231,'840,United States of America,600,'01317,Papayas,5510,Production,t,5329.71,3760,7080,5310,4650
+231,'840,United States of America,534,'01345,Peaches and nectarines,5312,Area harvested,ha,35936,36260,36827,37393,36301
+231,'840,United States of America,534,'01345,Peaches and nectarines,5412,Yield,kg/ha,20362,19396,20857.5,19045.3,18344.1
+231,'840,United States of America,534,'01345,Peaches and nectarines,5510,Production,t,731730,703300,768120,712160,665910
+231,'840,United States of America,521,'01342.01,Pears,5312,Area harvested,ha,18009,17564,17159,16471,15702
+231,'840,United States of America,521,'01342.01,Pears,5412,Yield,kg/ha,36018.3,33882.4,35211.3,35690.6,38449.2
+231,'840,United States of America,521,'01342.01,Pears,5510,Production,t,648637.27,595110,604190,587860,603730
+231,'840,United States of America,187,'01705,"Peas, dry",5312,Area harvested,ha,425730,392550,361790,359360,380810
+231,'840,United States of America,187,'01705,"Peas, dry",5412,Yield,kg/ha,2380.9,2499.2,1148.6,1958.6,2154.3
+231,'840,United States of America,187,'01705,"Peas, dry",5510,Production,t,1013600,981080,415540,703840,820370
+231,'840,United States of America,417,'01242,"Peas, green",5312,Area harvested,ha,51840,51193,51760,50424,46944
+231,'840,United States of America,417,'01242,"Peas, green",5412,Yield,kg/ha,4407.8,4649.5,3915.3,5106.5,5054.3
+231,'840,United States of America,417,'01242,"Peas, green",5510,Production,t,228502,238023,202656,257491,237270
+231,'840,United States of America,1043,'21521,"Pig fat, rendered",5510,Production,t,470225,482145,471404,460431,
+231,'840,United States of America,574,'01318,Pineapples,5312,Area harvested,ha,5618,5769,5624,5614,5603
+231,'840,United States of America,574,'01318,Pineapples,5412,Yield,kg/ha,30023.7,29168.9,29875.2,29984.1,30020.2
+231,'840,United States of America,574,'01318,Pineapples,5510,Production,t,168665.24,168283.73,168018.41,168322.46,168208.2
+231,'840,United States of America,223,'01375,"Pistachios, in shell",5312,Area harvested,ha,137593,150545,165518,173207,186967
+231,'840,United States of America,223,'01375,"Pistachios, in shell",5412,Yield,kg/ha,2442.8,3148.6,3165.2,2309.8,3614.8
+231,'840,United States of America,223,'01375,"Pistachios, in shell",5510,Production,t,336112.04,474000,523900,400070,675850
+231,'840,United States of America,536,'01346,Plums and sloes,5312,Area harvested,ha,23470,21449,19385,19061,18940
+231,'840,United States of America,536,'01346,Plums and sloes,5412,Yield,kg/ha,13973.2,11440.2,15064.2,13350.3,18057
+231,'840,United States of America,536,'01346,Plums and sloes,5510,Production,t,327950,245380,292020,254470,342000
+231,'840,United States of America,507,'01321,Pomelos and grapefruits,5312,Area harvested,ha,20113,18778,17280,14974,13193
+231,'840,United States of America,507,'01321,Pomelos and grapefruits,5412,Yield,kg/ha,27243.1,27537.5,22994.8,22658.6,22485.4
+231,'840,United States of America,507,'01321,Pomelos and grapefruits,5510,Production,t,547940,517100,397350,339290,296650
+231,'840,United States of America,116,'01510,Potatoes,5312,Area harvested,ha,379320,368960,376200,371590,388580
+231,'840,United States of America,116,'01510,Potatoes,5412,Yield,kg/ha,50752.2,51636.5,49752.8,49077.9,51449.1
+231,'840,United States of America,116,'01510,Potatoes,5510,Production,t,19251320,19051790,18717000,18236860,19992090
+231,'840,United States of America,394,'01235,"Pumpkins, squash and gourds",5312,Area harvested,ha,42371,43181,45892,46054,42250
+231,'840,United States of America,394,'01235,"Pumpkins, squash and gourds",5412,Yield,kg/ha,21986.6,20900.8,23403.9,23584.8,23621.5
+231,'840,United States of America,394,'01235,"Pumpkins, squash and gourds",5510,Production,t,931584,902517,1074053,1086173,998008
+231,'840,United States of America,270,'01443,Rape or colza seed,5312,Area harvested,ha,776970,727590,848590,879840,942650
+231,'840,United States of America,270,'01443,Rape or colza seed,5412,Yield,kg/ha,1998.5,2165.1,1463.8,1976.8,2010.2
+231,'840,United States of America,270,'01443,Rape or colza seed,5510,Production,t,1552800,1575310,1242150,1739280,1894950
+231,'840,United States of America,271,'21641.01,"Rapeseed or canola oil, crude",5510,Production,t,813000,809000,681000,803000,
+231,'840,United States of America,547,'01353.01,Raspberries,5312,Area harvested,ha,6760,6840,6232,6354,5989
+231,'840,United States of America,547,'01353.01,Raspberries,5412,Yield,kg/ha,14386.1,14722.2,11914.3,11499.8,10459.2
+231,'840,United States of America,547,'01353.01,Raspberries,5510,Production,t,97250.23,100700,74250,73070,62640
+231,'840,United States of America,162,'2351f,Raw cane or beet sugar (centrifugal only),5510,Production,t,7374045,7683408,8365841,8402697,
+231,'840,United States of America,957,'02951.03,Raw hides and skins of buffaloes,5510,Production,t,,,,,
+231,'840,United States of America,957,'02951.03,Raw hides and skins of buffaloes,5320,Producing Animals/Slaughtered,An,,,,,
+231,'840,United States of America,919,'02951.01,Raw hides and skins of cattle,5420,Yield,100 g/An,330,339,338,338,337
+231,'840,United States of America,919,'02951.01,Raw hides and skins of cattle,5510,Production,t,1129827.63,1130179.4,1161666.59,1175926.27,1120803.53
+231,'840,United States of America,919,'02951.01,Raw hides and skins of cattle,5320,Producing Animals/Slaughtered,An,34264800,33366100,34360100,34811900,33254800
+231,'840,United States of America,1025,'02954,Raw hides and skins of goats or kids,5420,Yield,100 g/An,28,28,28,28,28
+231,'840,United States of America,1025,'02954,Raw hides and skins of goats or kids,5510,Production,t,1921.47,1777,1703.35,1728.41,1811.54
+231,'840,United States of America,1025,'02954,Raw hides and skins of goats or kids,5320,Producing Animals/Slaughtered,An,675200,624400,598500,607300,636500
+231,'840,United States of America,995,'02953,Raw hides and skins of sheep or lambs,5420,Yield,100 g/An,31,30,29,30,29
+231,'840,United States of America,995,'02953,Raw hides and skins of sheep or lambs,5510,Production,t,7392.55,6905.32,6890.74,6572.23,6519.15
+231,'840,United States of America,995,'02953,Raw hides and skins of sheep or lambs,5320,Producing Animals/Slaughtered,An,2413200,2318400,2355200,2166600,2263800
+231,'840,United States of America,882,'02211,Raw milk of cattle,5420,Yield,100 g/An,105933,108419,108588,109477,109260
+231,'840,United States of America,882,'02211,Raw milk of cattle,5510,Production,t,99083289,101291379,102619953,102700692,102677105
+231,'840,United States of America,882,'02211,Raw milk of cattle,5318,Milk Animals,An,9353400,9342600,9450400,9381000,9397500
+231,'840,United States of America,1020,'02292,Raw milk of goats,5420,Yield,100 g/An,1006,1004,1007,1010,1013
+231,'840,United States of America,1020,'02292,Raw milk of goats,5510,Production,t,26150.16,26363.54,26090.41,25892.74,25651.28
+231,'840,United States of America,1020,'02292,Raw milk of goats,5318,Milk Animals,An,259911,262564,258983,256376,253220
+231,'840,United States of America,27,'0113,Rice,5312,Area harvested,ha,1002420,1208400,1002820,876960,1154990
+231,'840,United States of America,27,'0113,Rice,5412,Yield,kg/ha,8375.9,8540.1,8641.6,8277.8,8572.8
+231,'840,United States of America,27,'0113,Rice,5510,Production,t,8396180,10319860,8665970,7259340,9901510
+231,'840,United States of America,71,'0116,Rye,5312,Area harvested,ha,125450,133550,118980,139620,130310
+231,'840,United States of America,71,'0116,Rye,5412,Yield,kg/ha,2150.7,2193.4,2093.9,2265.6,2022.4
+231,'840,United States of America,71,'0116,Rye,5510,Production,t,269810,292930,249130,316320,263540
+231,'840,United States of America,280,'01446,Safflower seed,5312,Area harvested,ha,61310,51960,53340,54030,50990
+231,'840,United States of America,280,'01446,Safflower seed,5412,Yield,kg/ha,1427.2,1327.9,1120,1355.4,1161.6
+231,'840,United States of America,280,'01446,Safflower seed,5510,Production,t,87500,69000,59740,73230,59230
+231,'840,United States of America,281,'21631.02,"Safflower-seed oil, crude",5510,Production,t,28975.57,22597.05,20990.7,28512.88,
+231,'840,United States of America,328,'01921.01,"Seed cotton, unginned",5312,Area harvested,ha,4699460,3348610,4153410,2950030,2858970
+231,'840,United States of America,328,'01921.01,"Seed cotton, unginned",5412,Yield,kg/ha,2712.8,2750.7,2780.7,2811.8,2843
+231,'840,United States of America,328,'01921.01,"Seed cotton, unginned",5510,Production,t,12748778.73,9211030.39,11549333.16,8295012.24,8128031.49
+231,'840,United States of America,289,'01444,Sesame seed,5312,Area harvested,ha,,,,,
+231,'840,United States of America,289,'01444,Sesame seed,5412,Yield,kg/ha,,,,,
+231,'840,United States of America,289,'01444,Sesame seed,5510,Production,t,,,,,
+231,'840,United States of America,976,'02122,Sheep,5111,Stocks,An,5230000,5200000,5200000,5165000,5130000
+231,'840,United States of America,979,'21514,"Sheep fat, unrendered",5510,Production,t,1774.21,1657.28,1653.78,1577.34,1564.6
+231,'840,United States of America,979,'21514,"Sheep fat, unrendered",5320,Producing Animals/Slaughtered,An,2413200,2318400,2355200,2166600,2263800
+231,'840,United States of America,987,'02941,"Shorn wool, greasy, including fleece-washed shorn wool",5510,Production,t,10891,10489,11530,11635,11350
+231,'840,United States of America,898,'22212,Skim milk and whey powder,5510,Production,t,1107000,1209000,1249000,1195000,
+231,'840,United States of America,888,'22110.02,Skim milk of cows,5510,Production,t,16531991.74,16997492.65,17195663.12,17419307,
+231,'840,United States of America,896,'22222.02,"Skim milk, condensed",5510,Production,t,703568,665171,666516,654864,
+231,'840,United States of America,895,'22221.02,"Skim milk, evaporated",5510,Production,t,13890,14195,6740,4999,
+231,'840,United States of America,83,'0114,Sorghum,5312,Area harvested,ha,1891930,2061900,2626440,1849430,2474680
+231,'840,United States of America,83,'0114,Sorghum,5412,Yield,kg/ha,4584.5,4594.6,4330.9,2579.2,3261.5
+231,'840,United States of America,83,'0114,Sorghum,5510,Production,t,8673480,9473620,11374900,4769960,8071090
+231,'840,United States of America,530,'01344.01,Sour cherries,5312,Area harvested,ha,13678,12707,13759,14002,13638
+231,'840,United States of America,530,'01344.01,Sour cherries,5412,Yield,kg/ha,8648.4,4997.2,5630.5,7826.7,6658.6
+231,'840,United States of America,530,'01344.01,Sour cherries,5510,Production,t,118296.79,63500,77470,109590,90810
+231,'840,United States of America,237,'2161,Soya bean oil,5510,Production,t,11290000,11331000,11841000,11914000,
+231,'840,United States of America,236,'0141,Soya beans,5312,Area harvested,ha,30327060,33428610,34929220,34873760,33348650
+231,'840,United States of America,236,'0141,Soya beans,5412,Yield,kg/ha,3187.5,3432.7,3478.6,3332.6,3398.7
+231,'840,United States of America,236,'0141,Soya beans,5510,Production,t,96667090,114748940,121503600,116220720,113343420
+231,'840,United States of America,373,'01215,Spinach,5312,Area harvested,ha,26466,23593,25131,27519,29542
+231,'840,United States of America,373,'01215,Spinach,5412,Yield,kg/ha,16223.2,13782.9,14447.4,15582.1,14317
+231,'840,United States of America,373,'01215,Spinach,5510,Production,t,429371,325180,363078,428804,422952
+231,'840,United States of America,544,'01354,Strawberries,5312,Area harvested,ha,17600,18818,21246,22784,22986
+231,'840,United States of America,544,'01354,Strawberries,5412,Yield,kg/ha,58812.5,64285.8,57003.2,56778.9,54385.3
+231,'840,United States of America,544,'01354,Strawberries,5510,Production,t,1035100,1209730,1211090,1293650,1250100
+231,'840,United States of America,423,'01241.01,String beans,5312,Area harvested,ha,74543,70780,71145,68919,62363
+231,'840,United States of America,423,'01241.01,String beans,5412,Yield,kg/ha,9828.6,9230.3,9440.7,9969.5,10290.2
+231,'840,United States of America,423,'01241.01,String beans,5510,Production,t,732652,653318,671662,687088,641725
+231,'840,United States of America,157,'01801,Sugar beet,5312,Area harvested,ha,396640,462080,448560,460330,456210
+231,'840,United States of America,157,'01801,Sugar beet,5412,Yield,kg/ha,65527.5,65985.3,74361,64332.4,70047.8
+231,'840,United States of America,157,'01801,Sugar beet,5510,Production,t,25990840,30490480,33355370,29614140,31956490
+231,'840,United States of America,156,'01802,Sugar cane,5312,Area harvested,ha,369560,383480,378470,376440,376970
+231,'840,United States of America,156,'01802,Sugar cane,5412,Yield,kg/ha,78398,85400.5,78712,83553.8,79309.2
+231,'840,United States of America,156,'01802,Sugar cane,5510,Production,t,28972760,32749370,29790130,31453000,29897180
+231,'840,United States of America,267,'01445,Sunflower seed,5312,Area harvested,ha,507280,674090,502540,647300,512940
+231,'840,United States of America,267,'01445,Sunflower seed,5412,Yield,kg/ha,1749,2007.2,1714.4,1968.1,2001.6
+231,'840,United States of America,267,'01445,Sunflower seed,5510,Production,t,887240,1353020,861550,1273940,1026720
+231,'840,United States of America,268,'21631.01,"Sunflower-seed oil, crude",5510,Production,t,187000,228000,189000,252000,
+231,'840,United States of America,122,'01530,Sweet potatoes,5312,Area harvested,ha,59367,62848,63415,56657,51112
+231,'840,United States of America,122,'01530,Sweet potatoes,5412,Yield,kg/ha,24428.4,21744.3,21492.3,22208.5,22262.5
+231,'840,United States of America,122,'01530,Sweet potatoes,5510,Production,t,1450249,1366583,1362932,1258266,1137882
+231,'840,United States of America,1034,'02140,Swine / pigs,5111,Stocks,An,78227600,77312000,74606100,74955500,75816300
+231,'840,United States of America,1225,'21523,Tallow,5510,Production,t,3802212.23,3852677.15,3869003,3842073.77,
+231,'840,United States of America,495,'01324,"Tangerines, mandarins, clementines",5312,Area harvested,ha,29259,29907,30271,30433,30756
+231,'840,United States of America,495,'01324,"Tangerines, mandarins, clementines",5412,Yield,kg/ha,34323,28634.8,35782.8,21939.7,28640.9
+231,'840,United States of America,495,'01324,"Tangerines, mandarins, clementines",5510,Production,t,1004250,856380,1083180,667690,880880
+231,'840,United States of America,136,'01550,Taro,5312,Area harvested,ha,133,134,133,133,133
+231,'840,United States of America,136,'01550,Taro,5412,Yield,kg/ha,11525,11297.5,11075.4,11299.7,11224.7
+231,'840,United States of America,136,'01550,Taro,5510,Production,t,1536.67,1518.89,1468.52,1508.02,1498.48
+231,'840,United States of America,388,'01234,Tomatoes,5312,Area harvested,ha,110763,110440,112180,110076,122135
+231,'840,United States of America,388,'01234,Tomatoes,5412,Yield,kg/ha,98038.4,99050.2,93115.7,92975,101281.8
+231,'840,United States of America,388,'01234,Tomatoes,5510,Production,t,10858982,10939109,10445714,10234317,12370057
+231,'840,United States of America,777,'01929.02,"True hemp, raw or retted",5312,Area harvested,ha,,,5135,2772,4899
+231,'840,United States of America,777,'01929.02,"True hemp, raw or retted",5412,Yield,kg/ha,,,2936.9,3441.2,4542.8
+231,'840,United States of America,777,'01929.02,"True hemp, raw or retted",5510,Production,t,,,15081,9539,22255
+231,'840,United States of America,275,'01499.02,Tung nuts,5312,Area harvested,ha,,,,,
+231,'840,United States of America,275,'01499.02,Tung nuts,5510,Production,t,,,,,
+231,'840,United States of America,1079,'02152,Turkeys,5112,Stocks,1000 An,76000,74000,72000,70000,73000
+231,'840,United States of America,826,'01970,Unmanufactured tobacco,5312,Area harvested,ha,91910,77340,84750,80240,75930
+231,'840,United States of America,826,'01970,Unmanufactured tobacco,5412,Yield,kg/ha,2309.4,2186.8,2442.8,2474.7,2583.4
+231,'840,United States of America,826,'01970,Unmanufactured tobacco,5510,Production,t,212260,169130,207030,198570,196160
+231,'840,United States of America,222,'01376,"Walnuts, in shell",5312,Area harvested,ha,147710,153782,159853,161876,155806
+231,'840,United States of America,222,'01376,"Walnuts, in shell",5412,Yield,kg/ha,4022.8,4660.4,4171.2,4236.8,4797.8
+231,'840,United States of America,222,'01376,"Walnuts, in shell",5510,Production,t,594206.18,716680,666780,685830,747520
+231,'840,United States of America,567,'01221,Watermelons,5312,Area harvested,ha,40185,38284,42371,41845,40955
+231,'840,United States of America,567,'01221,Watermelons,5412,Yield,kg/ha,40763.7,40794.8,37891.3,38736.6,41085.8
+231,'840,United States of America,567,'01221,Watermelons,5510,Production,t,1638104,1561787,1605491,1620935,1682669
+231,'840,United States of America,15,'0111,Wheat,5312,Area harvested,ha,15132980,14888140,15032210,14360420,15083610
+231,'840,United States of America,15,'0111,Wheat,5412,Yield,kg/ha,3474.6,3341.7,2980.5,3126.5,3269.4
+231,'840,United States of America,15,'0111,Wheat,5510,Production,t,52580890,49751180,44803690,44897830,49313930
+231,'840,United States of America,890,'22130.03,"Whey, condensed",5510,Production,t,57273,49428,56059,54598,
+231,'840,United States of America,900,'22130.02,"Whey, dry",5510,Production,t,443413,434994,404602,415150,
+231,'840,United States of America,897,'22211,Whole milk powder,5510,Production,t,64000,63000,67267,62084,
+231,'840,United States of America,889,'22222.01,"Whole milk, condensed",5510,Production,t,99191,76820,76805,68662,
+231,'840,United States of America,894,'22221.01,"Whole milk, evaporated",5510,Production,t,189249,247299,242076,224581,
+231,'840,United States of America,564,'24212.02,Wine,5510,Production,t,2630772.27,2005825.83,2052221.6,2063334.96,
+231,'840,United States of America,1806,'F1806,"Beef and Buffalo Meat, primary",5417,Yield/Carcass Weight,100 g/An,3614,3713,3706,3703,3694
+231,'840,United States of America,1806,'F1806,"Beef and Buffalo Meat, primary",5510,Production,t,12384649,12388505,12733653,12889961,12285731
+231,'840,United States of America,1806,'F1806,"Beef and Buffalo Meat, primary",5320,Producing Animals/Slaughtered,An,34264800,33366100,34360100,34811900,33254800
+231,'840,United States of America,1811,'F1811,Butter and Ghee,5510,Production,t,915327.45,984251.73,946883.49,945227.43,
+231,'840,United States of America,1746,'F1746,Cattle and Buffaloes,5111,Stocks,An,94804701,93793300,93586500,91788700,88841000
+231,'840,United States of America,1717,'F1717,"Cereals, primary",5312,Area harvested,ha,52572930,53195327,54595016,50697492,55539765
+231,'840,United States of America,1717,'F1717,"Cereals, primary",5412,Yield,kg/ha,8005.5,8144.7,8246.2,8065.5,8329.7
+231,'840,United States of America,1717,'F1717,"Cereals, primary",5510,Production,t,420873692.8,433260476.6,450202502.9,408901710,462631789.8
+231,'840,United States of America,1745,'F1745,Cheese (All Kinds),5510,Production,t,6160629.59,6217267.54,6441897,6597477.49,
+231,'840,United States of America,1804,'F1804,"Citrus Fruit, Total",5312,Area harvested,ha,279500,276868,270740,256496,239180
+231,'840,United States of America,1804,'F1804,"Citrus Fruit, Total",5412,Yield,kg/ha,26496.8,25811.2,23223.3,19872.1,18683.5
+231,'840,United States of America,1804,'F1804,"Citrus Fruit, Total",5510,Production,t,7405873.33,7146301.11,6287471.48,5097105.31,4468729.3
+231,'840,United States of America,1783,'F1783,Eggs Primary,5410,Yield,100 mg/An,167879,169966,169702,172114,170765
+231,'840,United States of America,1783,'F1783,Eggs Primary,5510,Production,t,6706770,6658784,6639446,6528357,6529000
+231,'840,United States of America,1783,'F1783,Eggs Primary,5313,Laying,1000 An,399500,391772,391242,379304,382338
+231,'840,United States of America,1816,'F1816,Evaporated & Condensed Milk,5510,Production,t,1063171,1052913,1048196,1007704,
+231,'840,United States of America,17530,'F17530,"Fibre Crops, Fibre Equivalent",5312,Area harvested,ha,4699460,3348610,4158545,2952802,2863869
+231,'840,United States of America,17530,'F17530,"Fibre Crops, Fibre Equivalent",5412,Yield,kg/ha,949.5,962.7,975.7,986.5,1001.1
+231,'840,United States of America,17530,'F17530,"Fibre Crops, Fibre Equivalent",5510,Production,t,4462072.56,3223860.63,4057347.61,2912793.28,2867066.02
+231,'840,United States of America,1738,'F1738,Fruit Primary,5312,Area harvested,ha,1100005,1084279,1085503,1068344,1040460
+231,'840,United States of America,1738,'F1738,Fruit Primary,5412,Yield,kg/ha,23176.8,22029.7,21282.5,20368.3,20908.4
+231,'840,United States of America,1738,'F1738,Fruit Primary,5510,Production,t,25494594.03,23886291.06,23102262.95,21760396.53,21754313.49
+231,'840,United States of America,1808,'F1808,"Meat, Poultry",5424,Yield/Carcass Weight,0.1 g/An,23868,22384,22798,22771,23029
+231,'840,United States of America,1808,'F1808,"Meat, Poultry",5510,Production,t,22899942.45,21471397,21807666,22272253,22443418
+231,'840,United States of America,1808,'F1808,"Meat, Poultry",5321,Producing Animals/Slaughtered,1000 An,9594453,9592147,9565548,9781104,9745806
+231,'840,United States of America,1765,'F1765,"Meat, Total",5510,Production,t,48170421.47,47045687.9,47442102.3,47753745.62,47461239.74
+231,'840,United States of America,1780,'F1780,"Milk, Total",5420,Yield,100 g/An,103096,105483,105718,106592,106420
+231,'840,United States of America,1780,'F1780,"Milk, Total",5510,Production,t,99109439.16,101317742.5,102646043.4,102726584.7,102702756.3
+231,'840,United States of America,1780,'F1780,"Milk, Total",5318,Milk Animals,An,9613311,9605164,9709383,9637376,9650720
+231,'840,United States of America,1841,'F1841,"Oilcrops, Cake Equivalent",5312,Area harvested,ha,37085830,39041300,41262301,40135207,38513903
+231,'840,United States of America,1841,'F1841,"Oilcrops, Cake Equivalent",5412,Yield,kg/ha,2235.8,2469.4,2472.9,2422.3,2464.4
+231,'840,United States of America,1841,'F1841,"Oilcrops, Cake Equivalent",5510,Production,t,82915965.91,96410050.86,102039223.5,97218057.53,94912491.97
+231,'840,United States of America,1732,'F1732,"Oilcrops, Oil Equivalent",5312,Area harvested,ha,37101010,39055869,41278893,40152204,38530091
+231,'840,United States of America,1732,'F1732,"Oilcrops, Oil Equivalent",5412,Yield,kg/ha,552.7,606.2,600.8,592.5,603.7
+231,'840,United States of America,1732,'F1732,"Oilcrops, Oil Equivalent",5510,Production,t,20507297.9,23676394.86,24801214.1,23790257.11,23259678.13
+231,'840,United States of America,2029,'F2029,Poultry Birds,5112,Stocks,1000 An,1613676,1618787,1601854,1609926,1606996
+231,'840,United States of America,1726,'F1726,"Pulses, Total",5312,Area harvested,ha,1254530,1374050,1270850,1241550,1206010
+231,'840,United States of America,1726,'F1726,"Pulses, Total",5412,Yield,kg/ha,1971.4,2171.5,1352.2,1848.2,1973.1
+231,'840,United States of America,1726,'F1726,"Pulses, Total",5510,Production,t,2473130,2983690,1718485,2294580,2379550
+231,'840,United States of America,1720,'F1720,"Roots and Tubers, Total",5312,Area harvested,ha,438821,431942,439748,428380,439825
+231,'840,United States of America,1720,'F1720,"Roots and Tubers, Total",5412,Yield,kg/ha,47179,47274.6,45665.7,45512.4,48045.1
+231,'840,United States of America,1720,'F1720,"Roots and Tubers, Total",5510,Production,t,20703105.67,20419891.89,20081400.52,19496634.02,21131470.48
+231,'840,United States of America,1807,'F1807,Sheep and Goat Meat,5417,Yield/Carcass Weight,100 g/An,257,252,249,255,244
+231,'840,United States of America,1807,'F1807,Sheep and Goat Meat,5510,Production,t,79444.84,74116.37,73597.79,70733.65,70665.32
+231,'840,United States of America,1807,'F1807,Sheep and Goat Meat,5320,Producing Animals/Slaughtered,An,3088400,2942800,2953700,2773900,2900300
+231,'840,United States of America,1749,'F1749,Sheep and Goats,5111,Stocks,An,7852000,7855000,7806000,7735000,7657000
+231,'840,United States of America,1809,'F1809,"Skim Milk & Buttermilk, Dry",5510,Production,t,1160641,1266518,1308736,1257698,
+231,'840,United States of America,1723,'F1723,Sugar Crops Primary,5312,Area harvested,ha,766200,845560,827030,836770,833180
+231,'840,United States of America,1723,'F1723,Sugar Crops Primary,5412,Yield,kg/ha,71735.3,74790.5,76352.1,72979.6,74238.1
+231,'840,United States of America,1723,'F1723,Sugar Crops Primary,5510,Production,t,54963600,63239850,63145500,61067140,61853670
+231,'840,United States of America,1729,'F1729,"Treenuts, Total",5312,Area harvested,ha,949758,1006465,1060409,1094363,1114921
+231,'840,United States of America,1729,'F1729,"Treenuts, Total",5412,Yield,kg/ha,3178.4,3723.8,3403.7,2899.7,3100.1
+231,'840,United States of America,1729,'F1729,"Treenuts, Total",5510,Production,t,3018748.22,3747840,3609330,3173340,3456370
+231,'840,United States of America,1735,'F1735,Vegetables Primary,5312,Area harvested,ha,860704,833928,885392,879651,858814
+231,'840,United States of America,1735,'F1735,Vegetables Primary,5412,Yield,kg/ha,34286.6,35041,33042.2,33438.7,36642.5
+231,'840,United States of America,1735,'F1735,Vegetables Primary,5510,Production,t,29510628.51,29221685.58,29255265.36,29414378.82,31469116.03
