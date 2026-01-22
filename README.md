@@ -153,6 +153,8 @@ agrisight/
 │   └── flags.sql                     # Data quality flags
 ├── config/
 │   └── [Azure Data Factory configs]  # Pipeline definitions
+├── databricks/
+│   └── data_overboard.ipynb          # Complete data cleaning, analysis notebook
 ├── dashboards/
 │   └── [Tableau dashboard files]     # BI visualization exports
 ├── data/
