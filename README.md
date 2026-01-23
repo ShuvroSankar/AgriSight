@@ -167,7 +167,6 @@ agrisight/
 └── docs/
     ├── ARCHITECTURE.md               # Detailed system design
     ├── DATA_DICTIONARY.md            # Feature definitions
-    └── SETUP.md                      # Installation guide
 ```
 
 ---
@@ -331,7 +330,6 @@ python notebooks/AgriSight.ipynb
 
 - **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** - Detailed system design and medallion pattern implementation
 - **[DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)** - Complete feature definitions and data lineage
-- **[SETUP.md](docs/SETUP.md)** - Step-by-step installation and configuration
 
 ---
 
