@@ -413,8 +413,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Zhang, G.P. (2003). Time series forecasting using a hybrid ARIMA and neural network model
 
 ---
-
-**Last Updated**: January 15, 2026  
+  
 **Maintainer**: [Shuvro Sankar Sen]  
 
 ---
