@@ -1,4 +1,4 @@
-# 🌾 AgriSight: Cloud-Native Agricultural Commodity Price Analytics & Forecasting
+# AgriSight: Cloud-Native Agricultural Commodity Price Analytics & Forecasting
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
@@ -34,7 +34,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 | Metric | Value | Insight |
 |--------|-------|---------|
@@ -217,7 +217,7 @@ python notebooks/AgriSight.ipynb
 
 ---
 
-## 📊 Data Dictionary
+## Data Dictionary
 
 ### Core Features (46 total)
 
@@ -250,7 +250,7 @@ python notebooks/AgriSight.ipynb
 
 ---
 
-## 📈 Data Quality Validation
+## Data Quality Validation
 
 ### Completeness
 - **Matched records**: 99.8% completeness (1,125 records)
@@ -266,7 +266,7 @@ python notebooks/AgriSight.ipynb
 
 ---
 
-## 🔬 Analysis Results
+## Analysis Results
 
 ### Correlation with Price (Top 10 Features)
 1. **Rolling 2-year avg price**: r = 0.999 ⭐ (dominant predictor)
@@ -396,7 +396,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - American International University-Bangladesh (AIUB) for computational resources
 - USDA & Kaggle for agricultural sales data
@@ -406,7 +406,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📚 References
+## References
 
 - Box, G.E.P., & Jenkins, G.M. (1976). *Time Series Analysis: Forecasting and Control*
 - Chen, T., & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System
