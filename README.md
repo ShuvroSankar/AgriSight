@@ -153,6 +153,9 @@ agrisight/
 │   └── flags.sql                     # Data quality flags
 ├── config/
 │   └── [Azure Data Factory configs]  # Pipeline definitions
+├── pipeline/
+│   └── FAOSTAT.json                  # FAOSTAT Pipeline action documentation
+    └── US_data.json                  # US_data Pipeline action documentation
 ├── databricks/
 │   └── data_overboard.ipynb          # Complete data cleaning, analysis notebook
 ├── dashboards/
