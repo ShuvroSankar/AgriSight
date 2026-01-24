@@ -1,4 +1,4 @@
-# AgriSight: Cloud-Native Agricultural Commodity Price Analytics & Forecasting
+# 🌾 AgriSight: Cloud-Native Agricultural Commodity Price Analytics & Forecasting
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
@@ -34,7 +34,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 
 ---
 
-## Key Findings
+## 📊 Key Findings
 
 | Metric | Value | Insight |
 |--------|-------|---------|
@@ -51,6 +51,13 @@ This project demonstrates enterprise-grade data engineering practices using mode
 3. 🌿 Rosemary: 2.8M lbs
 4. 🍇 Grapes: 2.8M lbs
 5. 🌱 Parsley: 2.4M lbs
+6. 🍅 Tomatoes: 2.2M lbs
+7. 🍑 Peaches: 2.2M lbs
+8. 🥬 Spinach: 1.9M lbs
+9. 🌿 Tarragon: 1.7M lbs
+10. 🍉 Watermelons: 1.6M lbs
+
+![Top 10 Products by Volume](./Images/Top_10.png)
 
 ### Market Leaders (by geography)
 - **California**: 15.2M lbs (24% of US total)
@@ -62,6 +69,8 @@ This project demonstrates enterprise-grade data engineering practices using mode
 ---
 
 ## System Architecture
+
+
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -107,6 +116,8 @@ This project demonstrates enterprise-grade data engineering practices using mode
         └─────────────────────────────────────┘
 ```
 
+![System Architecture](./Images/block_diagram.png)
+
 ---
 
 ## Technology Stack
@@ -132,14 +143,17 @@ This project demonstrates enterprise-grade data engineering practices using mode
 ### Visualization & Analytics
 - **Tableau**: Interactive dashboards and BI
 - **SQL**: Data validation and quality checks
-![Tableau Dashboard](https://github.com/ShuvroSankar/AgriSight/blob/main/Images/dashboard.png)
+
 ### Data Sources
 - **USDA/Kaggle**: US agricultural sales (2019-2023)
+  - [Download Dataset](https://www.kaggle.com/datasets/mikeeddie/us-agricultural-sales-dataset-2019-2023)
 - **FAOSTAT**: Global FAO production statistics
+  - [Download Dataset](https://www.kaggle.com/datasets/vijayveersingh/faostat-crops-and-livestock-data)
 
 ---
 
 ## Project Structure
+
 
 ```
 agrisight/
@@ -171,54 +185,6 @@ agrisight/
 
 ---
 
-## Quick Start
-
-### Prerequisites
-- Python 3.8+
-- Azure subscription with Databricks workspace
-- Tableau (for visualization)
-- Git
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/agrisight.git
-cd agrisight
-```
-
-2. **Set up Python environment**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-3. **Configure Azure credentials**
-```bash
-# Set environment variables
-export AZURE_STORAGE_CONNECTION_STRING="your_connection_string"
-export AZURE_SQL_SERVER="your_server_name"
-export AZURE_SQL_DATABASE="your_database_name"
-```
-
-4. **Run the data pipeline**
-```bash
-# Using Azure Data Factory (recommended for production)
-# Or locally with Databricks Connect:
-databricks configure --token
-python notebooks/AgriSight.ipynb
-```
-
-5. **Connect Tableau to gold layer**
-- Configure Tableau data source pointing to gold layer CSV output
-- Load pre-built dashboard templates from `/dashboards`
-
----
-
-## Data Dictionary
-
-### Core Features (46 total)
 
 #### Price Metrics
 | Feature | Description | Range |
@@ -263,6 +229,7 @@ python notebooks/AgriSight.ipynb
 | `price_yoy_change` | 18 | 1.1% | Normal market volatility |
 | `production_yoy_growth` | 60 | 3.6% | Crop failures & bumper harvests (retained as valid) |
 
+![Outlier Analysis](./Images/Outlier_detection.png)
 ---
 
 ## Analysis Results
@@ -274,13 +241,57 @@ python notebooks/AgriSight.ipynb
 4. **Price YoY change**: r = 0.18
 5. **Total quantity sold**: r = 0.12
 
-### Key Insights
-- **Price Inertia**: Historical prices explain 99.9% of current price variation
-- **External Market Forces**: Internal metrics (margin, volume growth) show weak correlation with price
-- **Supply-Demand Dynamics**: Oversupply significantly depresses commodity prices
-- **Geographic Variation**: State-level differences reflect regional growing conditions and market access
+![Correlation Analysis](./Images/Correlation.png)
 
 ---
+
+## 📊 Tableau Dashboards & Visualizations
+
+Our comprehensive Tableau dashboard provides interactive analytics across multiple dimensions:
+
+![AgriSight Main Dashboard](./Images/dashboard.png)
+
+### Dashboard Components
+
+#### 1. **KPI Cards** (Performance Indicators)
+- **Total Sales Volume**: 64.4M lbs
+- **Average Sale Price**: $7.99/lb
+- **Average Profit Margin**: 44.99%
+- **YoY Variance**: Real-time trend indicators
+
+#### 2. **Category Breakdown** (Pie Chart)
+Distribution across product categories:
+- 🍎 **Fruits**: 34.6% (22.3M lbs)
+- 🥬 **Vegetables**: 33.1% (21.3M lbs)
+- 🌿 **Herbs**: 32.1% (20.7M lbs)
+
+#### 3. **Top 10 Products** (Bar Chart)
+![Top 10 Products by Volume](./Images/Top_10.png)
+
+Leading commodities ranked by sales volume, with Apples dominating at 3.5M lbs.
+
+#### 4. **Sales Trend** (Time Series)
+**5-Year Historical Analysis (2019-2023):**
+- **2019-2020**: Stable at ~13.5M lbs (pre-pandemic baseline)
+- **2021**: Dip to ~12M lbs (supply chain disruption)
+- **2022-2023**: Recovery to ~11.5M lbs (market normalization)
+
+**Key Finding**: 21% volume decline, with fruits showing greatest resilience.
+
+#### 5. **Geographic Map** (US State Distribution)
+Color-coded choropleth showing volume concentration:
+- **California dominance**: 24% of total US volume
+- **Top 5 states** account for 67% of national sales
+- Regional specialization patterns clearly visible
+
+### Interactive Features
+✅ **Drill-Down**: Filter by category, product, state, year  
+✅ **Cross-Filtering**: Selections update all panels dynamically  
+✅ **Export**: Download data and charts for reports  
+✅ **Real-Time**: Connects to gold layer for live updates  
+
+---
+
 
 ## Use Cases
 
@@ -333,35 +344,7 @@ python notebooks/AgriSight.ipynb
 
 ---
 
-## Paper & Publication
 
-This project is documented in a peer-reviewed LLNCS paper:
-
-**AgriSight: Cloud-Native Agricultural Commodity Price Analytics & Forecasting**
-- Authors: Shuvro Sankar Sen, Irtiza Ahsan Abir, Ahnaf Abdullah Zayad, Sandip Misra
-- Institution: American International University-Bangladesh (AIUB)
-- Dataset: 64.4M lbs US agricultural sales (2019-2023) + FAOSTAT global production
-- See: `Springer_Lecture_Notes_in_Computer_Science-2.pdf`
-
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow PEP 8 Python style guide
-- Add docstrings to all functions
-- Include unit tests for new features
-- Update documentation for changes
-
----
 
 ## Performance Metrics
 
@@ -414,13 +397,22 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
   
-**Maintainer**: [Shuvro Sankar Sen]  
+**Last Updated**: January 24, 2026  
+**Maintainer**: Shuvro Sankar Sen
 
 ---
 
+</div>
+
+# Current (broken):
+</div>
+
+# Should be:
 <div align="center">
 
+### ⭐ If you found this project helpful, please give it a star! ⭐
 
-
+**Built with ❤️ by the AgriSight Team**
 
 </div>
+
