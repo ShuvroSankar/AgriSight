@@ -132,7 +132,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 ### Visualization & Analytics
 - **Tableau**: Interactive dashboards and BI
 - **SQL**: Data validation and quality checks
-
+![Tableau Dashboard](https://github.com/ShuvroSankar/AgriSight/blob/main/Images/dashboard.png)
 ### Data Sources
 - **USDA/Kaggle**: US agricultural sales (2019-2023)
 - **FAOSTAT**: Global FAO production statistics
