@@ -404,11 +404,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 </div>
 
-# Current (broken):
-</div>
-
-# Should be:
-<div align="center">
+<div align="left">
 
 ### ⭐ If you found this project helpful, please give it a star! ⭐
 
