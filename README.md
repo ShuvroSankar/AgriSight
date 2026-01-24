@@ -57,7 +57,7 @@ This project demonstrates enterprise-grade data engineering practices using mode
 9. 🌿 Tarragon: 1.7M lbs
 10. 🍉 Watermelons: 1.6M lbs
 
-![Top 10 Products by Volume](./Images/Top_10.png)
+![Top 10 Products by Volume](./Images/Top_10 .png)
 
 ### Market Leaders (by geography)
 - **California**: 15.2M lbs (24% of US total)
