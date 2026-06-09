@@ -182,7 +182,7 @@ agrisight/
 ├── notebooks/
 │   └── AgriSight.ipynb              # Main pipeline notebook
 ├── databricks/
-│   └── data_overboard.ipynb         # Cleaning and analysis notebook
+│   └── data_analysis.ipynb          # Cleaning and analysis notebook
 ├── sql/
 │   ├── area_codes.sql
 │   ├── production.sql
